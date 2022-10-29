@@ -1,0 +1,2 @@
+# Frameworks
+This folder investigates the available Python libraries that are devoted to the subject of natural language processing. We will start with data preprocessing with Pandas and Matplotlib and proceed with a verity of frameworks that simplify major parts of our software development, and then finish with how we can use NLP in conjunction with machine learning and push our applications on another level.
